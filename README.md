@@ -1,7 +1,7 @@
 # Programming-Foundations-Object-Oriented-Design
 This repo is for the Programming Foundations: Object-Oriented Design course that I took.
 
-I will summarize the content of the course, answer chapter Quizs and solve the challenges in the course. 
+I will summarize the content of the course, answer chapter Quizzes and solve the challenges in the course. 
 
 ## Course details
 
